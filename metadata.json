@@ -1,0 +1,5 @@
+{
+  "name": "Image Gallery Admin",
+  "description": "A simple image gallery with an administrative interface to manage images using Express and SQLite.",
+  "requestFramePermissions": []
+}
